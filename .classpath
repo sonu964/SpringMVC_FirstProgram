@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/Sonu Shaw/Desktop/Jars/spring jars/commons-dbcp-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sonu Shaw/Desktop/Jars/spring jars/commons-logging.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sonu Shaw/Desktop/Jars/spring jars/javaee.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sonu Shaw/Desktop/Jars/spring jars/javassist-3.17.1-GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sonu Shaw/Desktop/Jars/spring jars/jboss-logging-3.3.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sonu Shaw/Desktop/Jars/spring jars/spring-beans-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sonu Shaw/Desktop/Jars/spring jars/spring-context-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sonu Shaw/Desktop/Jars/spring jars/spring-core-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sonu Shaw/Desktop/Jars/spring jars/spring-expression-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sonu Shaw/Desktop/Jars/spring jars/spring-instrument-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
